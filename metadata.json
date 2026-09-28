@@ -1,0 +1,6 @@
+{
+  "name": "Line Craft: Cute Linear Graph Quest",
+  "description": "Trò chơi giáo dục tương tác rèn luyện trực giác hàm số tuyến tính y = ax + b qua 15 màn thử thách vẽ hình dễ thương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
